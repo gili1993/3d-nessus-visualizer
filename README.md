@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # 3D Nessus Scan Visualization
 <img width="432" height="279" alt="image" src="https://github.com/user-attachments/assets/3f6cfd70-7a51-4a4d-91f5-bbd1e4a00d97" />
 
